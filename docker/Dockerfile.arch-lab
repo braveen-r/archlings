@@ -1,0 +1,7 @@
+FROM archlinux:latest
+
+# Ensure the base image is up to date initially
+RUN pacman -Syu --noconfirm
+
+WORKDIR /root
+CMD ["/bin/bash"]

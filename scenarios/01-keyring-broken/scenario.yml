@@ -1,0 +1,10 @@
+id: keyring-broken
+title: Fix the package keyring
+difficulty: beginner
+description: >
+  Your package manager is refusing to install software because the signatures are invalid.
+  Diagnose the keyring issue and restore pacman's ability to sync and install packages.
+hints:
+  - Inspect the pacman output for clues about 'keys' or 'signatures'.
+  - The pacman-key command manages Arch Linux's package signing keys.
+  - You may need to initialize the keyring and populate it with the default Arch Linux keys.
