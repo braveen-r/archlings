@@ -36,13 +36,14 @@ This project was natively developed and tested in the following environment:
 
 ### Step-by-Step Setup
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Braveen811/archlings.git](https://github.com/Braveen811/archlings.git)
+```bash
+   git clone [https://github.com/braveen-r/archlings.git](https://github.com/braveen-r/archlings.git)
    cd archlings
 
-```
+ ```
 
 2. **Create and activate a virtual environment:**
+
 ```bash
 python -m venv venv
 source venv/bin/activate
