@@ -37,8 +37,8 @@ This project was natively developed and tested in the following environment:
 ### Step-by-Step Setup
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/braveen-r/archlings.git](https://github.com/braveen-r/archlings.git)
-   cd archlings
+git clone [https://github.com/braveen-r/archlings.git](https://github.com/braveen-r/archlings.git)
+cd archlings
 
  ```
 
